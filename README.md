@@ -35,7 +35,6 @@ completions from OpenRouter's free models, dialled through the grader's gateway.
 - `lib/providers.ts` — the brief's parser, the free model list, the catalog builder.
 - `lib/wire.ts` — Anthropic <-> Chat Completions translation, model field, SSE writers,
   usage fallbacks.
-- `python/main.py` — the starter's Python entry, unused (this entry runs on Node 22).
 
 ## Run
 
